@@ -143,6 +143,7 @@ const PostsListCmp = (props: { store: AppStore }) => {
   };
   return (
     <div>
+      <h3>Mobx</h3>
       <input
         type="text"
         onChange={(evt) => searchTerm(evt.target.value)}

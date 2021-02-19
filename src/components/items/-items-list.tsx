@@ -44,6 +44,7 @@ const PostsList = () => {
 
   return (
     <div>
+      <h3>Vanilla hooks</h3>
       <input
         type="text"
         onChange={(evt) => searchTerm(evt.target.value)}

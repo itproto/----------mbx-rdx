@@ -65,6 +65,7 @@ const PostsList = () => {
 
   return (
     <div>
+      <h3>useReducer</h3>
       <input
         type="text"
         onChange={(evt) =>

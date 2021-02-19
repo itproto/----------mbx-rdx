@@ -111,6 +111,7 @@ const PostsList = (props: any) => {
 
   return (
     <div>
+      <h3>Redux</h3>
       <input
         type="text"
         onChange={(evt) => searchTerm(evt.target.value)}

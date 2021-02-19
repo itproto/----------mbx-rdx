@@ -2,8 +2,11 @@
 
 ## Pre-history
 
-- Global state/ServiceLocator/Cairngorn
-- Rails MVC=> Silverlight MVVM/MVP 15years
+StateManage - fasion industry, UI - all the same
+
+- Global state
+- ServiceLocator/Cairngorn
+- Rails MVC => Silverlight MVVM/MVP 15years
   http://www.digigene.com/wp-content/uploads/2018/05/compare-MVVMMVPMVC.jpeg
 - Flex `[Bindable]` AS3 annotation (Robotlegs/Parsley)
 - WPF/Silverlight MVVM
